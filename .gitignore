@@ -1,2 +1,4 @@
 dataset/
 youtube_census_filtered/
+.venv/
+__pycache__/
